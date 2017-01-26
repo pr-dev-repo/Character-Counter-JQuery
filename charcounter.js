@@ -1,4 +1,4 @@
-<div class="col-md-9">
+<div class="col-md-11">
 <textarea asp-for="H2C_EmailNoteEn" name="H2C_EmailNoteEn" id="email-text-en" class="form-control" rows="5" maxlength="50"></textarea>
 </div>
 <div class="col-md-1"></div>
